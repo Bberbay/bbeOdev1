@@ -1,0 +1,10 @@
+C:\Users\bberb\source\repos\bbeOdev1\bbeOdev1\bin\Debug\bbeOdev1.exe.config
+C:\Users\bberb\source\repos\bbeOdev1\bbeOdev1\bin\Debug\bbeOdev1.exe
+C:\Users\bberb\source\repos\bbeOdev1\bbeOdev1\bin\Debug\bbeOdev1.pdb
+C:\Users\bberb\source\repos\bbeOdev1\bbeOdev1\obj\Debug\bbeOdev1.csprojAssemblyReference.cache
+C:\Users\bberb\source\repos\bbeOdev1\bbeOdev1\obj\Debug\bbeOdev1.FrmTopla.resources
+C:\Users\bberb\source\repos\bbeOdev1\bbeOdev1\obj\Debug\bbeOdev1.Properties.Resources.resources
+C:\Users\bberb\source\repos\bbeOdev1\bbeOdev1\obj\Debug\bbeOdev1.csproj.GenerateResource.cache
+C:\Users\bberb\source\repos\bbeOdev1\bbeOdev1\obj\Debug\bbeOdev1.csproj.CoreCompileInputs.cache
+C:\Users\bberb\source\repos\bbeOdev1\bbeOdev1\obj\Debug\bbeOdev1.exe
+C:\Users\bberb\source\repos\bbeOdev1\bbeOdev1\obj\Debug\bbeOdev1.pdb
